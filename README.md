@@ -1,5 +1,6 @@
 # my-first-blog
 Django blog
+사실 진짜 처음 블로그는 아닙니다
 
 # Django 이미지 블로그 (Mobile/Web Service Project) 
 by kiokahn@khu.ac.kr
